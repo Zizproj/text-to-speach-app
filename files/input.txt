@@ -1,1 +1,1 @@
-Hi, this is some dummy text.
+Hi, I just created a script which turns text into voice. Wow, right ?
